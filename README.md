@@ -2,3 +2,6 @@
 
 > Inicial teste 123
 
+```
+node app.js
+```
